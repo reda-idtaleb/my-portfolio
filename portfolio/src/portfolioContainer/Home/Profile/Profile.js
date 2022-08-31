@@ -34,17 +34,17 @@ export default function Profile() {
                                     loop={Infinity}
                                     steps={[
                                         "Got Developer ? 🤔",
-                                        1500,
+                                        1000,
                                         "I am a software engineer student 💻",
                                         1500,
-                                        "I'm enthusiastic dev ...",
-                                        1500,
+                                        "I'm an enthusiastic dev",
+                                        1000,
                                         "My passion is to build useful apps 😃",
-                                        1500,
-                                        "Successful developer, better results 💪",
-                                        1500,
+                                        2000,
+                                        "Successful dev, better results 💪",
+                                        2000,
                                         "So, let's Software 😉!",
-                                        1500
+                                        4000
                                     ]}
                                 />
                             </h1>
