@@ -30,23 +30,7 @@ export default function Profile() {
                             {" "}
                             <h1>
                                 {" "}
-                                <Typical
-                                    loop={Infinity}
-                                    steps={[
-                                        "Got Developer ? 🤔",
-                                        1000,
-                                        "I am a software engineer student 💻",
-                                        1500,
-                                        "I'm an enthusiastic dev",
-                                        1000,
-                                        "My passion is to build useful apps 😃",
-                                        2000,
-                                        "Successful dev, better results 💪",
-                                        2000,
-                                        "So, let's Software 😉!",
-                                        4000
-                                    ]}
-                                />
+                                
                             </h1>
                             <span className='profile-role-tagline'>
                                 Full stack developer hwo writes clean, elegant and efficient code.
